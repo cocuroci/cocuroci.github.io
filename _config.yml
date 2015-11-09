@@ -21,3 +21,5 @@ github_username:  cocuroci
 markdown: kramdown
 
 permalink: :title
+
+include: .nojekyll
