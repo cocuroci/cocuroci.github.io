@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Aplicativo Enkontra Veículos"
+title:  "Aplicativo enkontra.com veículos"
 date:   2015-10-11 12:10:00 -0200
 categories: [portfolio, iOS]
 ---

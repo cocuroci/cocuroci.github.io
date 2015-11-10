@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Aplicativo Gazeta do Povo - Mobile"
-date:   2015-09-11 15:23:24 -0200
+date:   2015-10-11 15:23:24 -0200
 categories: [portfolio, iOS]
 ---
 
