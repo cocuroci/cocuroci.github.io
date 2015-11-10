@@ -25,3 +25,7 @@ permalink: :title
 include: [.nojekyll]
 
 exclude: ['.sass-cache','gitp.sh','gitjekgit.sh','jekgit.sh']
+
+
+sass:
+    style: compressed
