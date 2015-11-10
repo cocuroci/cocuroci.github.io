@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Agenda Colégio Catarinense"
+date:   2015-10-11 12:00:00 -0200
+categories: [portfolio, iOS]
+---
+
+O aplicativo Agenda Colégio Catarinense possibilita que seus alunos e pais de alunos possuam todas as informações sobre a programação do colégio em seus smartphones. 
+
+O Agenda CC permite também visualizar os horários de aula, notícias, uniformes, Manual de Convivência e o Projeto Político Pedagógico. 
+
+Compatível com iOS 7+.
+
+[Link para Apple Store](https://itunes.apple.com/us/app/agenda-cc/id964142597?l=pt&ls=1&mt=8)
