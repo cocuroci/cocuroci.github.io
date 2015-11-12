@@ -5,8 +5,8 @@
     <description></description>
     <link>http://andrecocuroci.com.br/</link>
     <atom:link href="http://andrecocuroci.com.br/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 11 Nov 2015 17:15:16 -0200</pubDate>
-    <lastBuildDate>Wed, 11 Nov 2015 17:15:16 -0200</lastBuildDate>
+    <pubDate>Thu, 12 Nov 2015 09:23:13 -0200</pubDate>
+    <lastBuildDate>Thu, 12 Nov 2015 09:23:13 -0200</lastBuildDate>
     <generator>Jekyll v3.0.0</generator>
     
       <item>
@@ -14,6 +14,9 @@
         <description>&lt;p&gt;Aplicativo para iPhone utilizando UIWebView para carregamento do conteúdo.&lt;/p&gt;
 
 &lt;p&gt;Compatível com iOS 7+.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/app-gazeta-01.jpeg&quot; alt=&quot;gazeta&quot; /&gt;
+&lt;img src=&quot;/images/app-gazeta-02.jpeg&quot; alt=&quot;gazeta&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/gazeta-do-povo-mobile/id1031930643?l=pt&amp;amp;ls=1&amp;amp;mt=8&quot;&gt;Link para Apple Store&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -34,6 +37,9 @@
 
 &lt;p&gt;Compatível com iOS 7.1+.&lt;/p&gt;
 
+&lt;p&gt;&lt;img src=&quot;/images/app-lancamentos-01.jpeg&quot; alt=&quot;lancamentos&quot; /&gt;
+&lt;img src=&quot;/images/app-lancamentos-02.jpeg&quot; alt=&quot;lancamentos&quot; /&gt;&lt;/p&gt;
+
 &lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/enkontra.com-lancamentos-em/id969590015?l=pt&amp;amp;ls=1&amp;amp;mt=8&quot;&gt;Link para Apple Store&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 11 Oct 2015 11:15:00 -0300</pubDate>
@@ -52,6 +58,9 @@
         <description>&lt;p&gt;Aplicativo para a vertical de veículos do &lt;a href=&quot;http://enkontra.com&quot;&gt;enkontra.com&lt;/a&gt;. Disponível para iPhone.&lt;/p&gt;
 
 &lt;p&gt;Compatível com iOS 7+.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/app-veiculos-01.jpeg&quot; alt=&quot;veiculos&quot; /&gt;
+&lt;img src=&quot;/images/app-veiculos-02.jpeg&quot; alt=&quot;veiculos&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/br/app/enkontra.com/id798618020?l=pt&amp;amp;ls=1&amp;amp;mt=8&quot;&gt;Link para Apple Store&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -73,6 +82,9 @@
 &lt;p&gt;O Agenda CC permite também visualizar os horários de aula, notícias, uniformes, Manual de Convivência e o Projeto Político Pedagógico.&lt;/p&gt;
 
 &lt;p&gt;Compatível com iOS 7+.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/app-agenda-cc-01.jpeg&quot; alt=&quot;agenda&quot; /&gt;
+&lt;img src=&quot;/images/app-agenda-cc-02.jpeg&quot; alt=&quot;agenda&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/agenda-cc/id964142597?l=pt&amp;amp;ls=1&amp;amp;mt=8&quot;&gt;Link para Apple Store&lt;/a&gt;&lt;/p&gt;
 </description>
