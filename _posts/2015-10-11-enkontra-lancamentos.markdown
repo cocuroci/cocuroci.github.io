@@ -9,4 +9,7 @@ Aplicativo para a vertical de imóveis - lançamentos do [enkontra.com](http://e
 
 Compatível com iOS 7.1+.
 
+![lancamentos](/images/app-lancamentos-01.jpeg)
+![lancamentos](/images/app-lancamentos-02.jpeg)
+
 [Link para Apple Store](https://itunes.apple.com/us/app/enkontra.com-lancamentos-em/id969590015?l=pt&ls=1&mt=8)

@@ -9,4 +9,7 @@ Aplicativo para iPhone utilizando UIWebView para carregamento do conteúdo.
 
 Compatível com iOS 7+.
 
+![gazeta](/images/app-gazeta-01.jpeg)
+![gazeta](/images/app-gazeta-02.jpeg)
+
 [Link para Apple Store](https://itunes.apple.com/us/app/gazeta-do-povo-mobile/id1031930643?l=pt&ls=1&mt=8)

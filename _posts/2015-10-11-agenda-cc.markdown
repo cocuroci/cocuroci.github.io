@@ -11,4 +11,7 @@ O Agenda CC permite também visualizar os horários de aula, notícias, uniforme
 
 Compatível com iOS 7+.
 
+![agenda](/images/app-agenda-cc-01.jpeg)
+![agenda](/images/app-agenda-cc-02.jpeg)
+
 [Link para Apple Store](https://itunes.apple.com/us/app/agenda-cc/id964142597?l=pt&ls=1&mt=8)
