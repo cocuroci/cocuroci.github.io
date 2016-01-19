@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>André Cocuroci - Desenvolvedor Mobile e FrontEnd</title>
+    <description>André Cocuroci Martins, FrontEnd a 13 anos e Desenvolvedor Mobile a mais de 3 anos. Estudioso e sempre em busca de novos desafios. Gosta de jogar video game, ler e ver filmes/seriados em suas horas vagas.
+</description>
+    <link>http://andrecocuroci.com.br/</link>
+    <atom:link href="http://andrecocuroci.com.br/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 19 Jan 2016 11:50:18 -0200</pubDate>
+    <lastBuildDate>Tue, 19 Jan 2016 11:50:18 -0200</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Aplicativo Enkontra Serviços</title>
+        <description>&lt;p&gt;Aplicativo para iPhone e Android utilizando WebView para carregamento do conteúdo.&lt;/p&gt;
+
+&lt;p&gt;Compatível com:
+&lt;br /&gt;iOS 7+
+&lt;br /&gt;Android 4.0+&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/app-enkontra-servicos-01.jpeg&quot; alt=&quot;enkontra serviços&quot; /&gt;
+&lt;img src=&quot;/images/app-enkontra-servicos-02.jpeg&quot; alt=&quot;enkontra serviços&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/br/app/enkontra.com-servicos./id1038423698?mt=8&quot;&gt;Link para Apple Store&lt;/a&gt;
+&lt;br /&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.enkontraservicos&amp;amp;hl=pt_BR&quot;&gt;Link para Google Play&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 19 Jan 2016 11:43:00 -0200</pubDate>
+        <link>http://andrecocuroci.com.br/enkontra-servicos</link>
+        <guid isPermaLink="true">http://andrecocuroci.com.br/enkontra-servicos</guid>
+        
+        
+        <category>portfolio</category>
+        
+        <category>iOS</category>
+        
+      </item>
+    
+      <item>
+        <title>Aplicativo Gazeta do Povo - Mobile</title>
+        <description>&lt;p&gt;Aplicativo para iPhone utilizando UIWebView para carregamento do conteúdo.&lt;/p&gt;
+
+&lt;p&gt;Compatível com iOS 7+.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/app-gazeta-01.jpeg&quot; alt=&quot;gazeta&quot; /&gt;
+&lt;img src=&quot;/images/app-gazeta-02.jpeg&quot; alt=&quot;gazeta&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/gazeta-do-povo-mobile/id1031930643?l=pt&amp;amp;ls=1&amp;amp;mt=8&quot;&gt;Link para Apple Store&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 11 Oct 2015 14:23:24 -0300</pubDate>
+        <link>http://andrecocuroci.com.br/gazeta-do-povo-mobile</link>
+        <guid isPermaLink="true">http://andrecocuroci.com.br/gazeta-do-povo-mobile</guid>
+        
+        
+        <category>portfolio</category>
+        
+        <category>iOS</category>
+        
+      </item>
+    
+      <item>
+        <title>Aplicativo enkontra.com lançamentos</title>
+        <description>&lt;p&gt;Aplicativo para a vertical de imóveis - lançamentos do &lt;a href=&quot;http://enkontra.com&quot;&gt;enkontra.com&lt;/a&gt;. Disponível para iPhone.&lt;/p&gt;
+
+&lt;p&gt;Compatível com iOS 7.1+.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/app-lancamentos-01.jpeg&quot; alt=&quot;lancamentos&quot; /&gt;
+&lt;img src=&quot;/images/app-lancamentos-02.jpeg&quot; alt=&quot;lancamentos&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/enkontra.com-lancamentos-em/id969590015?l=pt&amp;amp;ls=1&amp;amp;mt=8&quot;&gt;Link para Apple Store&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 11 Oct 2015 11:15:00 -0300</pubDate>
+        <link>http://andrecocuroci.com.br/enkontra-lancamentos</link>
+        <guid isPermaLink="true">http://andrecocuroci.com.br/enkontra-lancamentos</guid>
+        
+        
+        <category>portfolio</category>
+        
+        <category>iOS</category>
+        
+      </item>
+    
+      <item>
+        <title>Aplicativo enkontra.com veículos</title>
+        <description>&lt;p&gt;Aplicativo para a vertical de veículos do &lt;a href=&quot;http://enkontra.com&quot;&gt;enkontra.com&lt;/a&gt;. Disponível para iPhone.&lt;/p&gt;
+
+&lt;p&gt;Compatível com iOS 7+.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/app-veiculos-01.jpeg&quot; alt=&quot;veiculos&quot; /&gt;
+&lt;img src=&quot;/images/app-veiculos-02.jpeg&quot; alt=&quot;veiculos&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/br/app/enkontra.com/id798618020?l=pt&amp;amp;ls=1&amp;amp;mt=8&quot;&gt;Link para Apple Store&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 11 Oct 2015 11:10:00 -0300</pubDate>
+        <link>http://andrecocuroci.com.br/enkontra-veiculos</link>
+        <guid isPermaLink="true">http://andrecocuroci.com.br/enkontra-veiculos</guid>
+        
+        
+        <category>portfolio</category>
+        
+        <category>iOS</category>
+        
+      </item>
+    
+      <item>
+        <title>Aplicativo Agenda Colégio Catarinense</title>
+        <description>&lt;p&gt;O aplicativo Agenda Colégio Catarinense possibilita que seus alunos e pais de alunos possuam todas as informações sobre a programação do colégio em seus smartphones.&lt;/p&gt;
+
+&lt;p&gt;O Agenda CC permite também visualizar os horários de aula, notícias, uniformes, Manual de Convivência e o Projeto Político Pedagógico.&lt;/p&gt;
+
+&lt;p&gt;Compatível com iOS 7+.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/app-agenda-cc-01.jpeg&quot; alt=&quot;agenda&quot; /&gt;
+&lt;img src=&quot;/images/app-agenda-cc-02.jpeg&quot; alt=&quot;agenda&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/agenda-cc/id964142597?l=pt&amp;amp;ls=1&amp;amp;mt=8&quot;&gt;Link para Apple Store&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 11 Oct 2015 11:00:00 -0300</pubDate>
+        <link>http://andrecocuroci.com.br/agenda-cc</link>
+        <guid isPermaLink="true">http://andrecocuroci.com.br/agenda-cc</guid>
+        
+        
+        <category>portfolio</category>
+        
+        <category>iOS</category>
+        
+      </item>
+    
+  </channel>
+</rss>
