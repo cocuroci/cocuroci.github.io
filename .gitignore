@@ -1,0 +1,6 @@
+_site
+.sass-cache
+.jekyll-metadata
+gitjekgit.sh
+gitp.sh
+jekgit.sh
