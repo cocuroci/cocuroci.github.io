@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Promovagas"
+title:  "Aplicativo Promovagas"
 date:   2016-04-26 08:50:00 -0300
 categories: [portfolio, iOS]
 ---
