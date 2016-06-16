@@ -6,9 +6,33 @@
 </description>
     <link>http://andrecocuroci.com.br/</link>
     <atom:link href="http://andrecocuroci.com.br/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 16 Jun 2016 15:03:35 -0300</pubDate>
-    <lastBuildDate>Thu, 16 Jun 2016 15:03:35 -0300</lastBuildDate>
+    <pubDate>Thu, 16 Jun 2016 15:11:01 -0300</pubDate>
+    <lastBuildDate>Thu, 16 Jun 2016 15:11:01 -0300</lastBuildDate>
     <generator>Jekyll v3.1.1</generator>
+    
+      <item>
+        <title>Aplicativo VitalCare</title>
+        <description>&lt;p&gt;Aplicativo para iPhone desenvolvido em Objective-C.&lt;/p&gt;
+
+&lt;p&gt;Compatível com iOS 8+.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://vitalcareapp.com.br&quot;&gt;Mais informações&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/app-vc-01.jpg&quot; alt=&quot;VitalCare&quot; /&gt;
+&lt;img src=&quot;/images/app-vc-02.jpg&quot; alt=&quot;VitalCare&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/vital-care/id999983307?l=pt&amp;amp;ls=1&amp;amp;mt=8&quot;&gt;Link para Apple Store&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 16 Jun 2016 15:10:00 -0300</pubDate>
+        <link>http://andrecocuroci.com.br/vitalcare</link>
+        <guid isPermaLink="true">http://andrecocuroci.com.br/vitalcare</guid>
+        
+        
+        <category>portfolio</category>
+        
+        <category>iOS</category>
+        
+      </item>
     
       <item>
         <title>Aplicativo Sondha</title>
