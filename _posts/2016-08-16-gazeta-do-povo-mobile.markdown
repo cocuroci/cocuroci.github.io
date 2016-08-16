@@ -11,7 +11,7 @@ Foi refeita toda a estrutura do app antigo para o novo. Algumas partes do conte√
 
 Compat√≠vel com iOS 8+.
 
-![gazeta](/images/app-gazeta-01-novo.jpeg)
-![gazeta](/images/app-gazeta-02-novo.jpeg)
+![gazeta](/images/app-gazeta-novo-01.jpeg)
+![gazeta](/images/app-gazeta-novo-02.jpeg)
 
 [Link para Apple Store](https://itunes.apple.com/us/app/gazeta-do-povo-mobile/id1031930643?l=pt&ls=1&mt=8)
