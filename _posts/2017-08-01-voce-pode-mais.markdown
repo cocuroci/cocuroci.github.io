@@ -9,7 +9,7 @@ Aplicativo para iPhone desenvolvido em Swift e Android desenvolvido em Kotlin.
 
 Compatível com iOS 8+.
 
-Compatível com Android 4.4+.
+Compatível com Android 4.4+.ss
 
 [Mais informações](http://vocepodemais.org/)
 
